@@ -1,0 +1,5 @@
+.carousel-img {
+    height: 500px;
+    object-fit: contain; /* keeps poster shape */
+    background-color: #000;
+}
